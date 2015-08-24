@@ -112,4 +112,871 @@ Localization Resource: (C:/Program Files/Epic Games/4.8/Engine/Content/Localizat
 [2015.08.24-09.59.19:797][  0]LogInit: Texture streaming: Disabled
 [2015.08.24-09.59.19:837][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
 [2015.08.24-09.59.19:837][  0]LogAnalytics: [UEEditor.Rocket.Release] APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.8.3-2634408+++depot+UE4-Releases+4.8
-[2015.08.24-09.59.19:837][  0]LogAnalytics: [UEEditor.Rocket.Release] Se
+[2015.08.24-09.59.19:837][  0]LogAnalytics: [UEEditor.Rocket.Release] SetUserId 4db3a8e0408cb03dbb865fb5eb4ebeae|e28171b04cf84f9985e7f234ee07516a|649c9110-d470-423e-99c3-49e5946affb7
+[2015.08.24-09.59.19:837][  0]LogAnalytics: [UEEditor.Rocket.Release] AnalyticsET::StartSession
+[2015.08.24-09.59.19:865][  0]LogInit: Transaction tracking system initialized
+[2015.08.24-09.59.20:037][  0]BlueprintLog: New page: Editor Load
+[2015.08.24-09.59.20:081][  0]LogAssetRegistry: FAssetRegistry took 0.0106 seconds to start up
+[2015.08.24-09.59.20:082][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.08.24-09.59.20:928][  0]LogConsoleManager:Warning: Console variable 'r.VSync' wasn't set ('GameSetting' has a lower priority than 'SystemSettingsIni')
+[2015.08.24-09.59.20:928][  0]LogConsoleResponse:Display: 
+[2015.08.24-09.59.21:110][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2015.08.24-09.59.21:395][  0]SourceControl: Info Source control is disabled
+[2015.08.24-09.59.21:395][  0]Cmd: MAP LOAD FILE="I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2015.08.24-09.59.21:430][  0]LightingResults: New page: Lighting Build
+[2015.08.24-09.59.21:444][  0]MapCheck: New page: Map Check
+[2015.08.24-09.59.21:444][  0]LightingResults: New page: Lighting Build
+[2015.08.24-09.59.21:453][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000351DE54B80
+[2015.08.24-09.59.22:813][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2015.08.24-09.59.22:830][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2015.08.24-09.59.22:830][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2015.08.24-09.59.22:943][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 113.299ms to complete.
+[2015.08.24-09.59.22:943][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.548
+[2015.08.24-09.59.23:100][  0]LogCollectionManager: Loaded 0 collections in 0.002576 seconds
+[2015.08.24-09.59.23:107][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 1792 classes and 301 folders.
+[2015.08.24-09.59.23:174][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2015.08.24-09.59.23:246][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2015.08.24-09.59.23:270][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2015.08.24-09.59.23:330][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2015.08.24-09.59.23:335][  0]LogD3D11RHI: InitD3DDevice
+[2015.08.24-09.59.23:339][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2015.08.24-09.59.23:363][  0]LogLoad: Full Startup: 12.06 seconds (BP compile: 0.38 seconds)
+[2015.08.24-09.59.23:371][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2015.08.24-09.59.23:438][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.08.24-09.59.23:458][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2015.08.24-09.59.23:588][  0]LogRenderer: Reallocating scene render targets to support 1096x968 (Frame:2).
+[2015.08.24-09.59.23:767][  3]LogD3D11RHI: InitD3DDevice
+[2015.08.24-09.59.23:942][  7]LogAssetRegistry: Asset discovery search completed in 3.8727 seconds
+[2015.08.24-09.59.24:384][ 37]LogD3D11RHI: InitD3DDevice
+[2015.08.24-09.59.29:868][667]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.02.42:608][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2015.08.24-10.11.20:726][389]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.11.20:761][389]LogLinker:Warning: Asset '../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2015.08.24-10.11.20:841][389]LogLinker:Warning: Asset '../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Enum.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2015.08.24-10.13.31:849][371]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.13.54:391][ 42]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.13.55:130][118]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.14.03:689][139]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.14.03:963][165]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.14.12:176][146]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.14.12:637][194]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.14.14:826][453]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.14.33:370][661]LogRenderer: Reallocating scene render targets to support 1144x968 (Frame:62816).
+[2015.08.24-10.14.46:582][226]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.15.13:292][729]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.15.21:963][755]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.15.22:085][755]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.08.24-10.15.22:174][755]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.089
+[2015.08.24-10.15.22:180][755]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownController] ([1] browsable assets)...
+[2015.08.24-10.15.22:180][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownController]
+[2015.08.24-10.15.22:240][755]LogSavePackage: Save=55.407993ms
+[2015.08.24-10.15.22:240][755]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownController_Auto119DAE5B949E61CDFCD7AD09939524015.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownController_Auto1.uasset'
+[2015.08.24-10.15.22:241][755]LogFileHelpers: Auto-saving content packages took 0.066
+[2015.08.24-10.15.53:867][ 85]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.15.53:889][ 85]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.15.53:945][ 85]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.15.53:972][ 85]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.15.53:977][ 85]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.08.24-10.15.54:004][ 85]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2015.08.24-10.15.55:582][222]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.15.56:394][305]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.08.24-10.15.56:394][305]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.08.24-10.15.56:394][305]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.08.24-10.15.56:394][305]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.08.24-10.16.07:910][216]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.17.46:568][897]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.17.50:850][377]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.17.51:139][405]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.17.55:542][911]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.18.29:653][356]LogUObjectHash:Warning: Ambiguous search, could be K2Node_VariableGet /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_VariableGet_137 or K2Node_VariableGet /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:UserConstructionScript.K2Node_VariableGet_137
+[2015.08.24-10.18.29:653][356]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:UserConstructionScript.K2Node_CallFunction_2196 or K2Node_CallFunction /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CallFunction_2196
+[2015.08.24-10.18.29:653][356]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:UserConstructionScript.K2Node_CallFunction_2196 or K2Node_CallFunction /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CallFunction_2196
+[2015.08.24-10.18.34:125][889]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.18.45:777][282]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.18.46:012][304]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.18.49:957][773]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.18.55:000][369]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.19.02:184][228]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.19.18:552][183]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.19.18:659][183]BlueprintEditorCompileResults: Info [1207.36] Compile of TopDownCharacter successful! [in 107 ms]
+[2015.08.24-10.19.24:128][835]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.19.24:216][835]BlueprintEditorCompileResults: Info [1212.92] Compile of TopDownCharacter successful! [in 89 ms]
+[2015.08.24-10.19.41:185][865]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.19.41:575][909]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.19.44:925][307]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.19.45:412][359]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.19.48:126][682]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.19.48:394][708]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.20.16:620][462]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.20.16:832][481]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.20.56:591][885]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.20.58:260][ 85]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.20.58:265][ 85]LogMaterial: 0.000052 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.08.24-10.20.58:266][ 85]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2015.08.24-10.20.58:271][ 85]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2015.08.24-10.20.58:301][ 85]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.20.58:306][ 85]LogMaterial: 0.000022 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.08.24-10.20.58:334][ 85]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2015.08.24-10.21.00:132][292]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.08.24-10.21.00:132][292]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.08.24-10.21.00:132][292]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.08.24-10.21.00:132][292]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.08.24-10.21.10:078][484]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.21.10:083][484]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.08.24-10.21.10:106][484]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2015.08.24-10.21.11:162][606]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.08.24-10.21.11:162][606]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.08.24-10.21.11:162][606]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.08.24-10.21.11:162][606]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.08.24-10.21.32:358][701]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.21.46:186][158]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.21.46:940][247]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.21.54:960][959]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.21.55:699][ 45]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.21.59:397][485]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.21.59:638][507]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.22.05:759][221]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.22.10:663][764]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.22.15:124][297]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.22.24:411][390]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.22.47:767][ 76]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.22.51:811][533]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.22.52:150][567]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.22.59:659][463]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.23.00:143][516]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.25.24:451][747]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.26.01:258][310]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.26.10:267][337]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.26.10:730][337]LogSavePackage: Save=250.410324ms
+[2015.08.24-10.26.10:730][337]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownExampleMap_Auto2F2FC098241F685BE27ED1382A61A393A.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2015.08.24-10.26.10:732][337]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.300
+[2015.08.24-10.26.10:732][337]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.300
+[2015.08.24-10.26.10:736][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2015.08.24-10.26.10:763][337]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2015.08.24-10.26.10:763][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2015.08.24-10.26.10:809][337]LogSavePackage: Save=40.552872ms
+[2015.08.24-10.26.10:809][337]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownCharacter_Auto2E45C3E7442AF4C538833119256383E24.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto2.uasset'
+[2015.08.24-10.26.10:809][337]LogFileHelpers: Auto-saving content packages took 0.076
+[2015.08.24-10.27.08:072][770]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.08.24-10.27.14:664][556]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.28.38:800][635]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.05:515][689]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.09:719][177]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.25:286][955]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.29:349][440]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.34:337][ 35]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.35:610][186]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.38:468][526]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.47:341][571]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.53:109][196]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.57:001][661]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.29.57:345][699]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.30.29:935][592]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.30.31:337][753]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.30.39:976][778]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.01:452][338]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.11:849][568]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.13:181][726]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.16:925][174]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.17:424][228]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.31:151][870]LogMaterialEditor: Saving and Compiling material CubeMaterial
+[2015.08.24-10.31.31:578][870]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.31.31:606][870]LogMaterial: 0.000056 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.08.24-10.31.31:612][870]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.31:634][870]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.31.31:676][870]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.31.31:687][870]LogMaterial: 0.001914 seconds spent updating 1 materials, 1 interfaces, 10 instances, 0 with static permutations.
+[2015.08.24-10.31.31:698][870]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.34:409][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Meshes/CubeMaterial" FILE="I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Meshes/CubeMaterial.uasset" SILENT=true
+[2015.08.24-10.31.34:423][870]LogSavePackage: Save=9.871445ms
+[2015.08.24-10.31.34:423][870]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/CubeMaterial3A646E204B49F3483235768ECA4D48C9.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Meshes/CubeMaterial.uasset'
+[2015.08.24-10.31.34:439][870]MaterialEditorStats: Info Base pass shader with static lighting: 94 instructions
+[2015.08.24-10.31.34:439][870]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 62 instructions
+[2015.08.24-10.31.34:439][870]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.08.24-10.31.34:439][870]MaterialEditorStats: Info Texture samplers: 3/16
+[2015.08.24-10.31.36:230][ 85]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.31.36:349][ 85]BlueprintEditorCompileResults: Info [1945.05] Compile of TopDownCharacter successful! [in 119 ms]
+[2015.08.24-10.31.36:985][159]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.37:011][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2015.08.24-10.31.37:050][159]LogSavePackage: Save=33.417992ms
+[2015.08.24-10.31.37:050][159]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownCharacter2FFFA4E94AF676B29135A8B4ADCC35AB.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2015.08.24-10.31.46:573][282]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.50:615][741]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.50:983][774]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.52:280][912]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.54:899][209]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.56:759][404]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.31.57:360][474]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.01:123][919]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.03:390][188]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.03:851][239]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.06:043][497]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.06:425][536]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.09:335][878]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.22:659][468]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.35:589][ 10]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_VariableSet_77.EdGraphPin_20333''
+[2015.08.24-10.32.35:590][ 10]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2220.EdGraphPin_20343''
+[2015.08.24-10.32.35:590][ 10]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2220.EdGraphPin_20341''
+[2015.08.24-10.32.39:319][440]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.45:841][186]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.50:539][744]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.50:826][772]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.32.56:499][443]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.33.08:662][868]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.33.09:946][ 13]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.08.24-10.33.12:287][282]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.33.12:432][282]BlueprintEditorCompileResults: Info [2041.13] Compile of TopDownCharacter successful! [in 145 ms]
+[2015.08.24-10.33.14:512][522]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.33.14:625][522]BlueprintEditorCompileResults: Info [2043.33] Compile of TopDownController successful! [in 113 ms]
+[2015.08.24-10.33.17:563][860]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.33.17:811][860]LogSavePackage: Save=197.330200ms
+[2015.08.24-10.33.17:811][860]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownExampleMapCD1337D14DA79307EFD4048BDB5E2AA4.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2015.08.24-10.33.18:356][919]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.33.22:597][388]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.33.22:627][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2015.08.24-10.33.22:672][388]LogSavePackage: Save=42.717991ms
+[2015.08.24-10.33.22:672][388]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownCharacter1A77940A48E58CD1EDDF8C9F4451A681.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2015.08.24-10.33.22:678][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2015.08.24-10.33.22:736][388]LogSavePackage: Save=52.305725ms
+[2015.08.24-10.33.22:736][388]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownControllerA53E637A441A666B38A41E8C4645662F.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2015.08.24-10.33.24:307][567]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.08.24-10.33.24:343][567]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2015, 2:33:24 PM)
+[2015.08.24-10.33.24:343][567]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2015.08.24-10.33.24:364][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021079s)
+[2015.08.24-10.33.24:365][567]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2015.08.24-10.33.24:365][567]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2015.08.24-10.33.24:366][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022840s)
+[2015.08.24-10.33.24:366][567]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.08.24-10.33.24:401][567]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.08.24-10.33.24:412][567]LogInit: FAudioDevice initialized.
+[2015.08.24-10.33.24:475][567]LogWorld: Game class is 'TopDownGameMode_C'
+[2015.08.24-10.33.24:487][567]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2015.08.24-10.33.24:487][567]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2015.08.24-12.33.24
+[2015.08.24-10.33.24:487][567]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-10.33.24:488][567]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-10.33.24:490][567]LogWorld: Bringing up level for play took: 0.010583
+[2015.08.24-10.33.24:495][567]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.293
+[2015.08.24-10.33.40:402][451]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000353FCFF880
+[2015.08.24-10.33.55:897][272]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.33.55:997][272]BlueprintEditorCompileResults: Info [2084.70] Compile of TopDownCharacter successful! [in 100 ms]
+[2015.08.24-10.33.56:641][347]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.08.24-10.33.56:641][347]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2015, 2:33:56 PM)
+[2015.08.24-10.33.56:641][347]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2015.08.24-10.33.56:663][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021303s)
+[2015.08.24-10.33.56:664][347]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2015.08.24-10.33.56:664][347]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2015.08.24-10.33.56:664][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022882s)
+[2015.08.24-10.33.56:697][347]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.08.24-10.33.56:708][347]LogInit: FAudioDevice initialized.
+[2015.08.24-10.33.56:714][347]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.33.56:757][347]LogWorld: Game class is 'TopDownGameMode_C'
+[2015.08.24-10.33.56:765][347]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2015.08.24-10.33.56:765][347]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2015.08.24-12.33.56
+[2015.08.24-10.33.56:765][347]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-10.33.56:766][347]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-10.33.56:766][347]LogWorld: Bringing up level for play took: 0.007506
+[2015.08.24-10.33.56:775][347]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.573
+[2015.08.24-10.33.56:803][347]LogRenderer: Reallocating scene render targets to support 1296x968 (Frame:76608).
+[2015.08.24-10.34.23:651][ 18]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000003502A8F2E0
+[2015.08.24-10.34.35:401][408]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.35.12:072][734]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.35.13:715][921]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.35.14:602][ 26]LogUObjectHash:Warning: Ambiguous search, could be K2Node_VariableSet /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_VariableSet_78 or K2Node_VariableSet /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_VariableSet_78
+[2015.08.24-10.35.14:602][ 26]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_VariableSet_78.EdGraphPin_20333) from referencer (EdGraphPin /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_InputKey_174.EdGraphPin_20331).  Import failed...
+[2015.08.24-10.35.14:602][ 26]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_VariableSet_78.EdGraphPin_20333''
+[2015.08.24-10.35.14:602][ 26]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_CallFunction_2221 or K2Node_CallFunction /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CallFunction_2221
+[2015.08.24-10.35.14:602][ 26]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CallFunction_2221.EdGraphPin_20343) from referencer (EdGraphPin /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_VariableSet_78.EdGraphPin_20335).  Import failed...
+[2015.08.24-10.35.14:602][ 26]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2221.EdGraphPin_20343''
+[2015.08.24-10.35.14:603][ 26]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_CallFunction_2221 or K2Node_CallFunction /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CallFunction_2221
+[2015.08.24-10.35.14:603][ 26]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CallFunction_2221.EdGraphPin_20341) from referencer (EdGraphPin /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_VariableGet_171.EdGraphPin_20338).  Import failed...
+[2015.08.24-10.35.14:603][ 26]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2221.EdGraphPin_20341''
+[2015.08.24-10.35.14:603][ 26]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_18 or K2Node_CommutativeAssociativeBinaryOperator /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_18
+[2015.08.24-10.35.14:603][ 26]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_18.EdGraphPin_20388) from referencer (EdGraphPin /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_VariableSet_77.EdGraphPin_20352).  Import failed...
+[2015.08.24-10.35.14:603][ 26]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CommutativeAssociativeBinaryOperator_18.EdGraphPin_20388''
+[2015.08.24-10.35.14:603][ 26]LogUObjectHash:Warning: Ambiguous search, could be K2Node_InputKey /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_InputKey_175 or K2Node_InputKey /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_InputKey_175
+[2015.08.24-10.35.14:603][ 26]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_InputKey_175.EdGraphPin_20383) from referencer (EdGraphPin /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_VariableSet_77.EdGraphPin_20350).  Import failed...
+[2015.08.24-10.35.14:603][ 26]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_InputKey_175.EdGraphPin_20383''
+[2015.08.24-10.35.14:603][ 26]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_18 or K2Node_CommutativeAssociativeBinaryOperator /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_18
+[2015.08.24-10.35.14:603][ 26]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_18.EdGraphPin_20386) from referencer (EdGraphPin /Game/TopDownBP/Blueprints/TopDownController.TopDownController:EventGraph.K2Node_VariableGet_170.EdGraphPin_20365).  Import failed...
+[2015.08.24-10.35.14:603][ 26]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CommutativeAssociativeBinaryOperator_18.EdGraphPin_20386''
+[2015.08.24-10.35.14:606][ 26]LogBlueprint:Warning: [TopDownController] CreatePinForVariable: 'Health' variable not found. Base class was probably changed.
+[2015.08.24-10.35.14:606][ 26]LogBlueprint:Warning: [TopDownController] CreatePinForVariable: 'Health' variable not found. Base class was probably changed.
+[2015.08.24-10.35.14:606][ 26]LogBlueprint:Warning: [TopDownController] CreatePinForVariable: 'Health' variable not found. Base class was probably changed.
+[2015.08.24-10.35.14:607][ 26]LogBlueprint:Warning: [TopDownController] CreatePinForVariable: 'Health' variable not found. Base class was probably changed.
+[2015.08.24-10.35.14:607][ 26]LogBlueprint:Warning: [TopDownController] CreatePinForVariable: 'Health' variable not found. Base class was probably changed.
+[2015.08.24-10.35.14:607][ 26]LogBlueprint:Warning: [TopDownController] CreatePinForVariable: 'Health' variable not found. Base class was probably changed.
+[2015.08.24-10.35.20:513][728]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.35.20:884][764]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.35.28:092][595]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.35.28:204][595]BlueprintEditorCompileResults: Info [2176.90] Compile of TopDownCharacter successful! [in 111 ms]
+[2015.08.24-10.35.29:591][758]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.35.29:805][775]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.35.38:832][799]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.35.38:874][799]LogBlueprint:Warning: [compiler TopDownController] Warning Could not find a variable named "Health" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Get Health 
+[2015.08.24-10.35.38:875][799]LogBlueprint:Warning: [compiler TopDownController] Warning Could not find a variable named "Health" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Set Health 
+[2015.08.24-10.35.38:875][799]LogBlueprint:Warning: [compiler TopDownController] Warning Could not find a variable named "Health" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Get Health 
+[2015.08.24-10.35.38:875][799]LogBlueprint:Warning: [compiler TopDownController] Warning Could not find a variable named "Health" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Set Health 
+[2015.08.24-10.35.38:878][799]LogBlueprint:Error: [compiler TopDownController] Error The property associated with  Health  could not be found
+[2015.08.24-10.35.38:878][799]LogBlueprint:Error: [compiler TopDownController] Error The property associated with  Health  could not be found
+[2015.08.24-10.35.38:878][799]LogBlueprint:Error: [compiler TopDownController] Error The property associated with  Health  could not be found
+[2015.08.24-10.35.38:878][799]LogBlueprint:Error: [compiler TopDownController] Error The property associated with  Health  could not be found
+[2015.08.24-10.35.38:992][799]LogBlueprint:Warning: [compiler TopDownController] Warning [2187.69] Compile of TopDownController failed. 4 Fatal Issue(s) 4 Warning(s) [in 159 ms]
+[2015.08.24-10.35.38:992][799]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Get Health 
+[2015.08.24-10.35.38:992][799]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Set Health 
+[2015.08.24-10.35.38:992][799]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Get Health 
+[2015.08.24-10.35.38:993][799]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownController_C'.
+Make sure 'TopDownController_C' has been compiled for  Set Health 
+[2015.08.24-10.35.38:993][799]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2015.08.24-10.35.38:993][799]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2015.08.24-10.35.38:993][799]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2015.08.24-10.35.38:993][799]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2015.08.24-10.35.38:993][799]BlueprintEditorCompileResults:Warning: Warning [2187.69] Compile of TopDownController failed. 4 Fatal Issue(s) 4 Warning(s) [in 159 ms]
+[2015.08.24-10.35.40:143][935]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.35.40:245][935]BlueprintEditorCompileResults: Info [2188.95] Compile of TopDownCharacter successful! [in 102 ms]
+[2015.08.24-10.35.42:748][227]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.35.43:099][227]LogSavePackage: Save=202.754456ms
+[2015.08.24-10.35.43:099][227]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownExampleMapA5EA191D4D0F6177799090BE390D6B3C.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2015.08.24-10.35.43:120][227]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.362
+[2015.08.24-10.35.43:149][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2015.08.24-10.35.43:196][227]LogSavePackage: Save=43.062653ms
+[2015.08.24-10.35.43:196][227]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownCharacter3FF971654A87AAC409012780F80F1151.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2015.08.24-10.35.43:203][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownController" FILE="I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownController.uasset" SILENT=true
+[2015.08.24-10.35.43:258][227]LogSavePackage: Save=51.542145ms
+[2015.08.24-10.35.43:258][227]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownController6749744748D18C23713DAC8DB00E158B.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Content/TopDownBP/Blueprints/TopDownController.uasset'
+[2015.08.24-10.35.55:725][708]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.08.24-10.35.57:318][892]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.35.57:685][928]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.07:197][ 36]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.07:485][ 59]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.16:032][ 44]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.19:015][390]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.21:612][695]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.23:501][915]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.30:443][734]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.35:443][328]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.35:872][371]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.43:816][271]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.45:365][454]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.47:973][760]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.51:300][152]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.36.55:270][617]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.00:724][261]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.01:546][349]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.06:533][896]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.07:247][972]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.09:813][269]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.11:528][472]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.13:054][651]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.17:770][208]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.42:136][ 90]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.37.42:180][ 90]LogBlueprint:Error: [compiler TopDownController] Error This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2015.08.24-10.37.42:180][ 90]LogBlueprint:Error: [compiler TopDownController] Error This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2015.08.24-10.37.42:180][ 90]LogBlueprint:Error: [compiler TopDownController] Error This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2015.08.24-10.37.42:180][ 90]LogBlueprint:Error: [compiler TopDownController] Error Variable node  Get Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2015.08.24-10.37.42:181][ 90]LogBlueprint:Error: [compiler TopDownController] Error Variable node  Set Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2015.08.24-10.37.42:181][ 90]LogBlueprint:Error: [compiler TopDownController] Error Variable node  Set Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2015.08.24-10.37.42:304][ 90]LogBlueprint:Warning: [compiler TopDownController] Warning [2311.00] Compile of TopDownController failed. 6 Fatal Issue(s) 0 Warning(s) [in 167 ms]
+[2015.08.24-10.37.42:304][ 90]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2015.08.24-10.37.42:304][ 90]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2015.08.24-10.37.42:304][ 90]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a TopDownCharacter_C, therefore ' Target ' must have a connection.
+[2015.08.24-10.37.42:304][ 90]BlueprintEditorCompileResults:Error: Error Variable node  Get Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2015.08.24-10.37.42:304][ 90]BlueprintEditorCompileResults:Error: Error Variable node  Set Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2015.08.24-10.37.42:304][ 90]BlueprintEditorCompileResults:Error: Error Variable node  Set Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2015.08.24-10.37.42:304][ 90]BlueprintEditorCompileResults:Warning: Warning [2311.00] Compile of TopDownController failed. 6 Fatal Issue(s) 0 Warning(s) [in 167 ms]
+[2015.08.24-10.37.57:122][850]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.37.58:095][963]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.38.08:788][212]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.38.14:025][824]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.38.18:331][317]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.38.20:461][561]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.38.36:361][426]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_DynamicCast_455.EdGraphPin_20931''
+[2015.08.24-10.38.36:361][426]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_VariableSet_125.EdGraphPin_21146''
+[2015.08.24-10.38.36:361][426]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_VariableSet_125.EdGraphPin_21144''
+[2015.08.24-10.38.38:049][624]LogEditorTransaction: Undo Paste clipboard contents
+[2015.08.24-10.38.38:083][624]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.38.38:089][624]LogMaterial: 0.000053 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.08.24-10.38.38:094][624]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.38.38:454][653]LogEditorTransaction: Undo Delete current selection
+[2015.08.24-10.38.38:483][653]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-10.38.38:489][653]LogMaterial: 0.000026 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.08.24-10.38.40:070][827]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.08.24-10.38.40:070][827]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.08.24-10.38.40:070][827]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.08.24-10.38.40:071][827]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.08.24-10.38.56:171][742]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.38.57:955][949]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.39.06:010][891]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.39.08:190][144]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.39.33:810][188]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.39.41:268][ 46]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.39.43:766][336]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.39.43:901][336]BlueprintEditorCompileResults: Info [2432.60] Compile of TopDownController successful! [in 133 ms]
+[2015.08.24-10.39.44:878][449]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.08.24-10.39.44:878][449]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2015, 2:39:44 PM)
+[2015.08.24-10.39.44:879][449]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2015.08.24-10.39.44:898][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018955s)
+[2015.08.24-10.39.44:898][449]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2015.08.24-10.39.44:899][449]LogPlayLevel: PIE: World Init took: (0.001529s)
+[2015.08.24-10.39.44:899][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020699s)
+[2015.08.24-10.39.44:933][449]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.08.24-10.39.44:944][449]LogInit: FAudioDevice initialized.
+[2015.08.24-10.39.44:951][449]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.39.44:991][449]LogWorld: Game class is 'TopDownGameMode_C'
+[2015.08.24-10.39.44:999][449]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2015.08.24-10.39.44:999][449]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2015.08.24-12.39.44
+[2015.08.24-10.39.44:999][449]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-10.39.45:000][449]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-10.39.45:000][449]LogWorld: Bringing up level for play took: 0.008073
+[2015.08.24-10.39.45:011][449]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.811
+[2015.08.24-10.40.17:866][218]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000035184F2F20
+[2015.08.24-10.41.24:996][181]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.41.25:126][181]BlueprintEditorCompileResults: Info [2533.83] Compile of TopDownController successful! [in 129 ms]
+[2015.08.24-10.42.12:580][833]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.42.16:334][280]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.42.16:959][349]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.43.36:156][805]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.43.37:038][897]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.43.47:209][ 42]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.43.47:596][ 81]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.44.03:341][919]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.44.09:259][620]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.44.09:541][647]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.44.24:069][364]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.44.42:019][410]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.44.48:491][178]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.45.05:376][193]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.45.07:926][495]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.45.09:689][703]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.45.21:045][ 53]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2449.EdGraphPin_21607''
+[2015.08.24-10.45.21:046][ 53]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2451.EdGraphPin_21622''
+[2015.08.24-10.45.22:406][211]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.45.24:065][406]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.45.46:526][ 75]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.45.46:657][ 75]BlueprintEditorCompileResults: Info [2795.36] Compile of TopDownController successful! [in 130 ms]
+[2015.08.24-10.45.48:158][252]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.08.24-10.45.48:173][252]LogPlayLevel: [PIE] Compiling TopDownCharacter before PIE...
+[2015.08.24-10.45.48:319][252]LogPlayLevel: [PIE] Compiling TopDownController before PIE...
+[2015.08.24-10.45.48:453][252]LogPlayLevel: PIE:  Blueprint regeneration took 295 ms (2 blueprints)
+[2015.08.24-10.45.48:453][252]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2015, 2:45:48 PM)
+[2015.08.24-10.45.48:454][252]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2015.08.24-10.45.48:476][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022212s)
+[2015.08.24-10.45.48:477][252]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2015.08.24-10.45.48:478][252]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2015.08.24-10.45.48:478][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023946s)
+[2015.08.24-10.45.48:510][252]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.08.24-10.45.48:523][252]LogInit: FAudioDevice initialized.
+[2015.08.24-10.45.48:529][252]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.45.48:565][252]LogWorld: Game class is 'TopDownGameMode_C'
+[2015.08.24-10.45.48:574][252]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2015.08.24-10.45.48:574][252]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2015.08.24-12.45.48
+[2015.08.24-10.45.48:574][252]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-10.45.48:574][252]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-10.45.48:575][252]LogWorld: Bringing up level for play took: 0.007773
+[2015.08.24-10.45.48:580][252]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.379
+[2015.08.24-10.45.49:370][335]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-10.45.49:836][390]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-10.45.50:056][416]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-10.45.50:270][441]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-10.45.50:490][467]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-10.45.50:705][492]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-10.45.50:936][519]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-10.45.51:175][547]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-10.45.51:419][575]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-10.45.51:660][603]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-10.45.52:635][718]LogBlueprintUserMessages: Health set to: -10.0
+[2015.08.24-10.45.53:136][777]LogBlueprintUserMessages: Health set to: -20.0
+[2015.08.24-10.45.53:384][806]LogBlueprintUserMessages: Health set to: -30.0
+[2015.08.24-10.45.53:593][831]LogBlueprintUserMessages: Health set to: -40.0
+[2015.08.24-10.45.53:828][859]LogBlueprintUserMessages: Health set to: -50.0
+[2015.08.24-10.45.54:293][914]LogBlueprintUserMessages: Health set to: -40.0
+[2015.08.24-10.45.54:495][938]LogBlueprintUserMessages: Health set to: -30.0
+[2015.08.24-10.45.54:697][962]LogBlueprintUserMessages: Health set to: -20.0
+[2015.08.24-10.45.55:119][ 12]LogBlueprintUserMessages: Health set to: -10.0
+[2015.08.24-10.45.55:322][ 36]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-10.45.55:551][ 63]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-10.45.55:771][ 89]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-10.45.55:991][115]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-10.45.56:202][140]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-10.45.56:427][167]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-10.45.56:644][192]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-10.45.56:858][217]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-10.45.57:075][242]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-10.45.57:277][266]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-10.45.57:480][290]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-10.45.57:692][315]LogBlueprintUserMessages: Health set to: 110.0
+[2015.08.24-10.45.57:914][341]LogBlueprintUserMessages: Health set to: 120.0
+[2015.08.24-10.45.58:140][367]LogBlueprintUserMessages: Health set to: 130.0
+[2015.08.24-10.45.59:636][532]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000352A90C220
+[2015.08.24-10.46.20:891][ 64]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.46.21:828][174]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.46.35:251][765]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.46.55:928][563]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.47.04:938][590]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.47.05:285][590]LogSavePackage: Save=191.563141ms
+[2015.08.24-10.47.05:285][590]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownExampleMap_Auto3845EDE3C4CE389A77E3B258AE61DC209.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2015.08.24-10.47.05:287][590]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.235
+[2015.08.24-10.47.05:287][590]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.235
+[2015.08.24-10.47.05:291][590]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2015.08.24-10.47.05:320][590]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2015.08.24-10.47.05:320][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2015.08.24-10.47.05:383][590]LogSavePackage: Save=57.229073ms
+[2015.08.24-10.47.05:383][590]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownCharacter_Auto31B9A250C4ABF1E0A196DDBA40E35EA4D.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto3.uasset'
+[2015.08.24-10.47.05:387][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownController] ([1] browsable assets)...
+[2015.08.24-10.47.05:387][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownController]
+[2015.08.24-10.47.05:455][590]LogSavePackage: Save=63.830868ms
+[2015.08.24-10.47.05:456][590]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownController_Auto3E8ECE7AC45011AAB5E43EBA0C20A8A24.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownController_Auto3.uasset'
+[2015.08.24-10.47.05:456][590]LogFileHelpers: Auto-saving content packages took 0.169
+[2015.08.24-10.52.07:825][498]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.52.07:908][498]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.08.24-10.52.07:952][498]BlueprintEditorCompileResults: Info [3176.65] Compile of TopDownCharacter successful! [in 126 ms]
+[2015.08.24-10.53.19:580][ 73]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.53.19:747][ 73]BlueprintEditorCompileResults: Info [3248.45] Compile of TopDownCharacter successful! [in 167 ms]
+[2015.08.24-10.53.21:404][268]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.53.21:520][268]BlueprintEditorCompileResults: Info [3250.22] Compile of TopDownController successful! [in 115 ms]
+[2015.08.24-10.53.44:141][977]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.55.58:622][843]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.56.29:530][849]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.57.17:206][446]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.57.49:748][282]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-10.57.49:915][282]BlueprintEditorCompileResults: Info [3518.62] Compile of TopDownCharacter successful! [in 167 ms]
+[2015.08.24-10.58.37:259][947]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.58.37:531][973]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.59.13:147][415]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.59.22:148][442]LogD3D11RHI: InitD3DDevice
+[2015.08.24-10.59.22:508][442]LogSavePackage: Save=190.879074ms
+[2015.08.24-10.59.22:508][442]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownExampleMap_Auto497090C1543AE4C18BDCE80A862E66D57.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2015.08.24-10.59.22:510][442]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.233
+[2015.08.24-10.59.22:510][442]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.233
+[2015.08.24-10.59.22:514][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2015.08.24-10.59.22:532][442]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2015.08.24-10.59.22:532][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2015.08.24-10.59.22:574][442]LogSavePackage: Save=33.509575ms
+[2015.08.24-10.59.22:574][442]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownCharacter_Auto4F059B574463A61AB3AF973B8E9F2A75C.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto4.uasset'
+[2015.08.24-10.59.22:579][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownController] ([1] browsable assets)...
+[2015.08.24-10.59.22:579][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownController]
+[2015.08.24-10.59.22:627][442]LogSavePackage: Save=44.033524ms
+[2015.08.24-10.59.22:627][442]LogSavePackage: Moving 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/TopDownController_Auto40943B0A244DFBF11D1D3DA9A16B6CB5E.tmp' to 'I:/PROG/Unreal Projects/FirstMOBATestProject/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownController_Auto4.uasset'
+[2015.08.24-10.59.22:628][442]LogFileHelpers: Auto-saving content packages took 0.117
+[2015.08.24-10.59.47:643][519]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.59.47:714][519]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.08.24-10.59.47:753][519]BlueprintEditorCompileResults: Info [3636.45] Compile of TopDownController successful! [in 110 ms]
+[2015.08.24-10.59.49:202][686]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.59.49:306][686]BlueprintEditorCompileResults: Info [3638.01] Compile of TopDownController successful! [in 104 ms]
+[2015.08.24-10.59.49:861][752]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.59.49:971][752]BlueprintEditorCompileResults: Info [3638.67] Compile of TopDownController successful! [in 110 ms]
+[2015.08.24-10.59.50:432][807]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.59.50:542][807]BlueprintEditorCompileResults: Info [3639.24] Compile of TopDownController successful! [in 109 ms]
+[2015.08.24-10.59.50:982][859]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.59.51:086][859]BlueprintEditorCompileResults: Info [3639.79] Compile of TopDownController successful! [in 104 ms]
+[2015.08.24-10.59.51:464][904]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-10.59.51:568][904]BlueprintEditorCompileResults: Info [3640.27] Compile of TopDownController successful! [in 104 ms]
+[2015.08.24-11.00.26:531][ 94]Cmd: TRANSACTION UNDO
+[2015.08.24-11.00.26:531][ 94]LogEditorTransaction: Undo Delete current selection
+[2015.08.24-11.00.26:559][ 94]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2015.08.24-11.00.26:564][ 94]LogMaterial: 0.000050 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.08.24-11.00.26:570][ 94]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.00.27:855][223]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.08.24-11.00.27:855][223]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.08.24-11.00.27:855][223]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.08.24-11.00.27:855][223]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.08.24-11.01.01:130][192]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.01:404][221]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.18:014][201]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.19:922][426]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.20:685][507]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.22:092][665]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.28:024][345]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.32:703][903]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.33:802][ 33]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.37:980][531]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.39:126][663]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.42:766][ 89]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.47:347][633]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.58:772][996]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.01.59:052][ 25]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.02.09:089][218]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.02.12:370][605]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.02.13:753][760]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.02.16:169][ 47]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.02.19:713][469]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.02.30:215][724]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.02.32:297][969]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.02.42:169][140]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.03.16:797][214]BlueprintLog: New page: Compile TopDownController
+[2015.08.24-11.03.16:917][214]BlueprintEditorCompileResults: Info [3845.62] Compile of TopDownController successful! [in 120 ms]
+[2015.08.24-11.03.17:705][306]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.08.24-11.03.17:718][306]LogPlayLevel: [PIE] Compiling TopDownCharacter before PIE...
+[2015.08.24-11.03.17:854][306]LogPlayLevel: [PIE] Compiling TopDownController before PIE...
+[2015.08.24-11.03.17:980][306]LogPlayLevel: PIE:  Blueprint regeneration took 275 ms (2 blueprints)
+[2015.08.24-11.03.17:980][306]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2015, 3:03:17 PM)
+[2015.08.24-11.03.17:981][306]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2015.08.24-11.03.18:001][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020674s)
+[2015.08.24-11.03.18:002][306]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2015.08.24-11.03.18:003][306]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2015.08.24-11.03.18:003][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022304s)
+[2015.08.24-11.03.18:035][306]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.08.24-11.03.18:046][306]LogInit: FAudioDevice initialized.
+[2015.08.24-11.03.18:052][306]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.03.18:091][306]LogWorld: Game class is 'TopDownGameMode_C'
+[2015.08.24-11.03.18:100][306]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2015.08.24-11.03.18:100][306]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2015.08.24-13.03.18
+[2015.08.24-11.03.18:100][306]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-11.03.18:100][306]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-11.03.18:100][306]LogWorld: Bringing up level for play took: 0.007770
+[2015.08.24-11.03.18:106][306]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.095
+[2015.08.24-11.03.19:397][436]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.03.19:589][457]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.03.19:789][479]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.03.19:971][499]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.03.20:172][521]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.03.20:368][542]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.03.20:570][564]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.03.20:773][586]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.03.20:991][610]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.03.21:221][635]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.03.23:476][881]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.03.23:686][904]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.03.23:899][927]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.03.24:118][951]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.03.24:331][974]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.03.24:533][996]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.03.24:746][ 19]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.03.24:947][ 41]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.03.25:148][ 63]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.03.25:380][ 88]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.03.28:483][414]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000035766BE160
+[2015.08.24-11.03.41:556][979]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.03.45:071][400]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.03.46:010][511]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.03.48:775][840]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.03.51:584][175]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.08.24-11.03.51:584][175]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2015, 3:03:51 PM)
+[2015.08.24-11.03.51:585][175]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2015.08.24-11.03.51:603][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018194s)
+[2015.08.24-11.03.51:604][175]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2015.08.24-11.03.51:605][175]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2015.08.24-11.03.51:605][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.020076s)
+[2015.08.24-11.03.51:635][175]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.08.24-11.03.51:645][175]LogInit: FAudioDevice initialized.
+[2015.08.24-11.03.51:650][175]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.03.51:685][175]LogWorld: Game class is 'TopDownGameMode_C'
+[2015.08.24-11.03.51:693][175]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2015.08.24-11.03.51:693][175]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2015.08.24-13.03.51
+[2015.08.24-11.03.51:693][175]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-11.03.51:693][175]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-11.03.51:694][175]LogWorld: Bringing up level for play took: 0.007528
+[2015.08.24-11.03.51:701][175]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.5
+[2015.08.24-11.04.00:637][239]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.04.00:879][268]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.04.01:105][295]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.04.01:355][325]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.04.01:580][352]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.04.01:813][380]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.04.02:039][407]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.04.02:272][435]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.04.02:514][464]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.04.02:755][493]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.04.04:183][664]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.04.04:500][702]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.04.04:716][728]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.04.04:916][752]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.04.05:125][777]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.04.05:342][803]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.04.05:560][829]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.04.05:778][855]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.04.06:004][882]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.04.06:238][910]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.04.08:282][155]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.04.24:514][ 89]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000003576E98C20
+[2015.08.24-11.04.25:586][217]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.04.32:411][ 33]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.08.24-11.04.32:424][ 33]LogPlayLevel: [PIE] Compiling TopDownCharacter before PIE...
+[2015.08.24-11.04.32:507][ 33]LogPlayLevel: [PIE] Compiling TopDownController before PIE...
+[2015.08.24-11.04.32:631][ 33]LogPlayLevel: PIE:  Blueprint regeneration took 219 ms (2 blueprints)
+[2015.08.24-11.04.32:631][ 33]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2015, 3:04:32 PM)
+[2015.08.24-11.04.32:631][ 33]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2015.08.24-11.04.32:648][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016562s)
+[2015.08.24-11.04.32:649][ 33]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2015.08.24-11.04.32:649][ 33]LogPlayLevel: PIE: World Init took: (0.001501s)
+[2015.08.24-11.04.32:649][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018280s)
+[2015.08.24-11.04.32:681][ 33]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.08.24-11.04.32:690][ 33]LogInit: FAudioDevice initialized.
+[2015.08.24-11.04.32:696][ 33]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.04.32:734][ 33]LogWorld: Game class is 'TopDownGameMode_C'
+[2015.08.24-11.04.32:742][ 33]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2015.08.24-11.04.32:742][ 33]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2015.08.24-13.04.32
+[2015.08.24-11.04.32:742][ 33]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-11.04.32:742][ 33]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-11.04.32:743][ 33]LogWorld: Bringing up level for play took: 0.007623
+[2015.08.24-11.04.32:749][ 33]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.548
+[2015.08.24-11.04.38:771][743]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.04.38:996][770]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.04.39:205][795]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.04.39:413][820]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.04.39:638][847]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.04.39:847][872]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.04.40:049][896]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.04.40:274][923]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.04.40:491][949]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.04.40:708][975]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.04.41:909][119]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.04.42:117][144]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.04.42:309][167]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.04.42:519][192]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.04.42:727][217]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.04.42:945][243]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.04.43:162][269]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.04.43:389][296]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.04.43:606][322]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.04.43:839][350]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.04.44:908][478]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.04.45:367][533]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.04.45:749][579]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.04.46:118][623]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.04.46:468][665]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.04.46:768][701]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.04.47:311][766]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.04.50:334][128]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.05.01:288][437]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.05.17:072][329]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.05.17:572][389]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.05.18:722][527]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.05.18:972][557]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.05.19:197][584]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.05.19:422][611]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.05.19:647][638]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.05.19:864][664]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.05.20:098][692]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.05.20:356][723]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.05.25:232][308]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.05.26:066][408]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.05.26:274][433]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.05.26:483][458]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.05.26:709][485]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.05.26:917][510]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.05.27:135][536]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.05.27:342][561]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.05.27:585][590]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.05.27:868][624]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.05.29:952][874]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.05.30:344][921]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.05.30:544][945]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.05.30:744][969]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.05.30:927][991]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.05.31:128][ 15]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.05.31:336][ 40]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.05.31:536][ 64]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.05.31:761][ 91]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.05.31:978][117]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.05.32:485][178]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.05.32:727][207]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.05.32:952][234]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.05.33:177][261]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.05.33:403][288]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.05.33:602][312]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.05.33:828][339]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.05.34:044][365]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.05.34:269][392]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.05.34:499][417]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.05.42:210][329]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000355EF0B880
+[2015.08.24-11.05.52:460][556]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.05.55:130][874]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.05.59:589][407]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-11.05.59:687][407]BlueprintEditorCompileResults: Info [4008.39] Compile of TopDownCharacter successful! [in 98 ms]
+[2015.08.24-11.06.00:349][484]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.08.24-11.06.00:349][484]PIE: New page: PIE session: TopDownExampleMap (Aug 24, 2015, 3:06:00 PM)
+[2015.08.24-11.06.00:349][484]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2015.08.24-11.06.00:366][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016993s)
+[2015.08.24-11.06.00:367][484]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2015.08.24-11.06.00:368][484]LogPlayLevel: PIE: World Init took: (0.001671s)
+[2015.08.24-11.06.00:368][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.018926s)
+[2015.08.24-11.06.00:400][484]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.08.24-11.06.00:410][484]LogInit: FAudioDevice initialized.
+[2015.08.24-11.06.00:416][484]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.06.00:449][484]LogWorld: Game class is 'TopDownGameMode_C'
+[2015.08.24-11.06.00:458][484]LogWorld:Warning: *** WARNING - PATHS MAY NOT BE VALID ***
+[2015.08.24-11.06.00:458][484]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2015.08.24-13.06.00
+[2015.08.24-11.06.00:458][484]LogActor:Warning: GameSession /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameSession_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-11.06.00:458][484]LogActor:Warning: GameNetworkManager /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.GameNetworkManager_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.08.24-11.06.00:459][484]LogWorld: Bringing up level for play took: 0.007801
+[2015.08.24-11.06.00:466][484]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.265
+[2015.08.24-11.06.02:553][727]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.06.02:886][767]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.06.03:578][850]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.06.04:788][995]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.06.04:989][ 19]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.06.05:190][ 43]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.06.05:407][ 69]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.06.05:615][ 94]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.06.05:824][119]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.06.06:041][145]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.06.06:258][171]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.06.06:483][198]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.06.07:777][353]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.06.08:068][388]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.06.08:302][416]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.06.08:535][444]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.06.08:777][473]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.06.09:019][502]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.06.09:245][529]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.06.09:461][555]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.06.09:686][582]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.06.09:894][607]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.06.11:127][753]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.06.13:510][ 34]LogD3D11RHI: InitD3DDevice
+[2015.08.24-11.06.15:947][324]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.06.16:213][356]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.06.16:497][390]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.06.16:697][414]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.06.16:906][439]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.06.17:122][465]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.06.17:356][493]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.06.17:574][519]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.06.17:791][545]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.06.18:024][573]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.06.18:849][672]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.06.19:057][697]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.06.19:274][723]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.06.19:474][747]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.06.19:691][773]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.06.19:900][798]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.06.20:116][824]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.06.20:328][849]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.06.20:537][874]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.06.20:737][898]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.06.20:937][922]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.06.21:136][946]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.06.21:336][970]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.06.21:545][995]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.06.21:753][ 20]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.06.21:969][ 46]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.06.22:187][ 72]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.06.22:412][ 99]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.06.22:628][125]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.06.22:846][151]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.06.23:529][233]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.06.24:179][311]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.06.24:513][351]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.06.25:955][524]LogBlueprintUserMessages: Health set to: 0.0
+[2015.08.24-11.06.26:688][612]LogBlueprintUserMessages: Health set to: 10.0
+[2015.08.24-11.06.26:897][637]LogBlueprintUserMessages: Health set to: 20.0
+[2015.08.24-11.06.27:130][665]LogBlueprintUserMessages: Health set to: 30.0
+[2015.08.24-11.06.27:339][690]LogBlueprintUserMessages: Health set to: 40.0
+[2015.08.24-11.06.27:547][715]LogBlueprintUserMessages: Health set to: 50.0
+[2015.08.24-11.06.27:772][742]LogBlueprintUserMessages: Health set to: 60.0
+[2015.08.24-11.06.27:991][768]LogBlueprintUserMessages: Health set to: 70.0
+[2015.08.24-11.06.28:200][793]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.06.28:434][821]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.06.28:643][846]LogBlueprintUserMessages: Health set to: 100.0
+[2015.08.24-11.06.34:419][539]LogBlueprintUserMessages: Health set to: 90.0
+[2015.08.24-11.06.35:678][690]LogBlueprintUserMessages: Health set to: 80.0
+[2015.08.24-11.06.40:465][255]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000003561771440
+[2015.08.24-11.07.08:735][ 95]BlueprintLog: New page: Compile TopDownCharacter
+[2015.08.24-11.07.08:840][ 95]BlueprintEditorCompileResults: Info [4077.54] Compile of TopDownChara
